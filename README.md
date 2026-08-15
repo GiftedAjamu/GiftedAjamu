@@ -7,7 +7,7 @@ I'm passionate about conducting in-depth research and assisting others in busine
 
 My skills include:
 
-- Data analysis and visualization (Excel, Power BI, SQL)
+- Data analysis and visualization (Excel, Power BI, SQL, Python)
 - Risk management and strategy
 - Business research and insights
 
